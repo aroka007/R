@@ -1,4 +1,4 @@
-## R practice
+## R 
 
 A set of projects done in R and Rmarkdown in a variety of areas such as Machine Learning, Data Mining, and Data Visualization/Wrangling.
 
